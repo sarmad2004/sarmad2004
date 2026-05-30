@@ -22,8 +22,9 @@ I work at the intersection of **AI/ML**, **Computer Vision**, and **Systems Prog
 ## 📈 Currently
 
 - 🎓 Finishing my CS degree
-- 🤖 Going deeper into Computer Vision & GenAI
-- 👀 Open to **internships** and **open source collaboration**
+- 💼 Working remotely as a developer
+- 🤖 Building in Computer Vision & GenAI
+- ✅ Previously completed an internship
 
 ## 📫 Reach me
 
