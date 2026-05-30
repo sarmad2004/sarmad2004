@@ -30,8 +30,8 @@ I work at the intersection of **AI/ML**, **Computer Vision**, and **Systems Prog
 
 > Drop a ⭐ on something you find useful, or connect via GitHub issues/discussions.
 
-![Sarmad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sarmad2004&show_icons=true&theme=tokyonight&hide_border=true)
+![Sarmad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sarmad2004&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sarmad2004&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sarmad2004&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=sarmad2004&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
