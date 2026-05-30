@@ -21,7 +21,7 @@ I work at the intersection of **AI/ML**, **Computer Vision**, and **Systems Prog
 
 ## 📈 Currently
 
-- 🎓 Finishing my CS degree
+- 🎓 Finish my CS degree
 - 💼 Working remotely as a developer
 - 🤖 Building in Computer Vision & GenAI
 - ✅ Previously completed an internship
