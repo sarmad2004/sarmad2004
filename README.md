@@ -1,7 +1,7 @@
 # Hey, I'm Sarmad 👋
 
-CS student from Pakistan who actually ships things.
-I work at the intersection of **AI/ML**, **Computer Vision**, and **Systems Programming**.
+AI/ML Engineer @ The Cerebral IT | Shipping systems at the intersection of AI/ML, 
+Computer Vision, and Systems Programming | PyTorch | YOLOv8 | Django | AWS | Docker
 
 ## 🔨 What I Build
 
